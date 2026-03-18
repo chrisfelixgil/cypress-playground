@@ -46,12 +46,11 @@ En este playground se pretende:
 
 ## 🛠️ Tecnologías utilizadas
 
-[![Tecnologías](https://skillicons.dev/icons?i=nodejs,npm,js,cypress,git,github&theme=dark)](https://skillicons.dev)
+[![Tecnologías](https://skillicons.dev/icons?i=nodejs,npm,js,cypress&theme=dark)](https://skillicons.dev)
 
 - **Node.js** y **npm** – Gestión del proyecto y dependencias.
 - **JavaScript** – Lenguaje principal de los tests.
 - **Cypress** – Framework de pruebas end‑to‑end.
-- **Git & GitHub** – Control de versiones y repositorio remoto.
 
 ## 👤 Autor
 
